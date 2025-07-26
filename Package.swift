@@ -13,7 +13,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/dnpp73/GPUCIImageView", .upToNextMinor(from: "0.1.1")),
-        .package(url: "https://github.com/p-x9/SimpleCamera", .upToNextMinor(from: "0.3.2")),
+        .package(url: "https://github.com/p-x9/SimpleCamera", .upToNextMinor(from: "0.3.3")),
     ],
     targets: [
         .target(
